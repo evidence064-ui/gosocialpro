@@ -1,8 +1,5 @@
 # gosocialpro
 YOUR GO TO SOCIAL MEDIA MANAGER AND MARKETER
-
-Copy
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
